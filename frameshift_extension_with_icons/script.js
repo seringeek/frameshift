@@ -1,8 +1,19 @@
 document.addEventListener('DOMContentLoaded', () => {
-  fetch('models.json')
+  fetch('quotes.json')
     .then(res => res.json())
-    .then(models => {
-      const index = Math.floor(Math.random() * models.length);
-      document.getElementById('modelText').textContent = models[index];
+    .then(quotes => {
+      const index = Math.floor(Math.random() * quotes.length);
+      const selectedQuote = quotes[index];
+      const modelElement = document.getElementById('modelText');
+      
+      // Create formatted quote display with quote and author
+      modelElement.innerHTML = `
+        <div class="quote-text">"${selectedQuote.quote}"</div>
+        <div class="quote-author">— ${selectedQuote.author}</div>
+      `;
+    })
+    .catch(error => {
+      console.error('Error loading quotes:', error);
+      document.getElementById('modelText').textContent = 'Loading...';
     });
 });
