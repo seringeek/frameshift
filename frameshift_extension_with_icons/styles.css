@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #ffffff;
+  color: #000000;
+}
+.container {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-rows: auto 1fr auto;
+  height: 100vh;
+  padding: 40px;
+  box-sizing: border-box;
+}
+.mental-model {
+  grid-column: 1 / span 2;
+  font-size: 4rem;
+  font-weight: 800;
+  max-width: 75vw;
+  align-self: centre;
+  justify-self: start;
+}
+.pomodoro-timer {
+  grid-column: 2;
+  align-self: start;
+  text-align: center;
+}
+.label {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+.sub-label {
+  font-size: 0.9rem;
+  color: #aaa;
+  margin-bottom: 10px;
+}
+#timeDisplay {
+  font-size: 1.5rem;
+  margin: 10px 0;
+}
+canvas {
+  margin: 0 auto;
+  display: block;
+}
+.buttons .btn {
+  padding: 8px 20px;
+  border-radius: 30px;
+  margin: 5px;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: 'Montserrat', sans-serif;
+  border: none;
+  transition: all 0.3s ease;
+}
+.btn.orange {
+  background: linear-gradient(to right, #f3904f, #f65f3e);
+  color: white;
+}
+.btn.outline {
+  background: white;
+  border: 2px solid #f65f3e;
+  color: #f65f3e;
+}
+.hidden {
+  display: none;
+}
+.branding {
+  grid-column: 2;
+  align-self: end;
+  justify-self: end;
+  font-size: 1rem;
+  background: linear-gradient(to right, #f3904f, #f65f3e);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
