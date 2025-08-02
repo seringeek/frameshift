@@ -21,6 +21,21 @@ body {
   font-weight: 800;
   max-width: 75vw;
   text-align: center;
+  line-height: 1.1;
+}
+
+.quote-text {
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.1;
+  margin-bottom: 1rem;
+}
+
+.quote-author {
+  font-size: 2rem;
+  font-weight: 400;
+  color: #666;
+  font-style: italic;
 }
 
 .pomodoro-timer {
