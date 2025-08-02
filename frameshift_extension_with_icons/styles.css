@@ -17,8 +17,9 @@ body {
   font-size: 4rem;
   font-weight: 800;
   max-width: 75vw;
-  align-self: centre;
-  justify-self: start;
+  align-self: center;
+  justify-self: center;
+  text-align: center;
 }
 .pomodoro-timer {
   grid-column: 2;
