@@ -38,6 +38,14 @@ body {
   font-style: italic;
 }
 
+.quote-category {
+  font-size: 0.8rem;
+  font-weight: 300;
+  color: #999;
+  margin-top: 0.5rem;
+  font-style: normal;
+}
+
 .pomodoro-timer {
   position: absolute;
   top: 20px;

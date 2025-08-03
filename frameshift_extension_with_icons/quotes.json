@@ -1,402 +1,502 @@
 [
   {
-    "quote": "It is important to view knowledge as sort of a semantic tree — make sure you understand the fundamental trunk and big branches before you get into the leaves/details or there is nothing for them to hang on to.",
-    "author": "Elon Musk"
+    "quote": "We see what we expect to see and ignore what contradicts our beliefs.",
+    "author": "Confirmation Bias",
+    "category": "Cognitive & Decision Making Models"
   },
   {
-    "quote": "If I had an hour to solve a problem, I'd spend 55 minutes thinking about the problem and 5 minutes solving it.",
-    "author": "Albert Einstein"
+    "quote": "The first piece of information we receive becomes the reference point for all decisions that follow.",
+    "author": "Anchoring Bias",
+    "category": "Cognitive & Decision Making Models"
   },
   {
-    "quote": "Reasoning from first principles allows you to innovate, not just iterate.",
-    "author": "Elon Musk"
+    "quote": "We judge probability by how easily examples come to mind, not by actual statistics.",
+    "author": "Availability Heuristic",
+    "category": "Cognitive & Decision Making Models"
   },
   {
-    "quote": "Stand before the world as it is, not as you wish it to be.",
-    "author": "Marcus Aurelius"
+    "quote": "We assume small samples represent the whole, ignoring the role of chance.",
+    "author": "Representative Heuristic",
+    "category": "Cognitive & Decision Making Models"
   },
   {
-    "quote": "There is nothing so useless as doing efficiently that which should not be done at all.",
-    "author": "Peter Drucker"
+    "quote": "The pain of losing something is twice as powerful as the pleasure of gaining it.",
+    "author": "Loss Aversion",
+    "category": "Cognitive & Decision Making Models"
   },
   {
-    "quote": "No action has unintended consequences; every action has effects.",
-    "author": "Nassim Taleb"
+    "quote": "People make decisions based on potential gains and losses, not final outcomes.",
+    "author": "Prospect Theory",
+    "category": "Cognitive & Decision Making Models"
   },
   {
-    "quote": "Don't just consider the immediate consequence; consider the ripple.",
-    "author": "Unknown"
+    "quote": "We continue bad investments because we've already invested, not because they'll succeed.",
+    "author": "Sunk Cost Fallacy",
+    "category": "Cognitive & Decision Making Models"
   },
   {
-    "quote": "Long-term thinking is the competitive advantage most people never develop.",
-    "author": "Shane Parrish"
+    "quote": "Money in different categories feels different, even when it's the same money.",
+    "author": "Mental Accounting",
+    "category": "Cognitive & Decision Making Models"
   },
   {
-    "quote": "Invert, always invert.",
-    "author": "Carl Gustav Jacob Jacobi"
+    "quote": "How information is presented shapes our decisions more than the information itself.",
+    "author": "Framing Effect",
+    "category": "Cognitive & Decision Making Models"
   },
   {
-    "quote": "Avoiding stupidity is easier than seeking brilliance.",
-    "author": "Charlie Munger"
+    "quote": "We value what we own more highly simply because we own it.",
+    "author": "Endowment Effect",
+    "category": "Cognitive & Decision Making Models"
   },
   {
-    "quote": "Tell me where I'm going to die, so I never go there.",
-    "author": "Charlie Munger"
+    "quote": "Everything is connected to everything else; small changes can have large effects.",
+    "author": "Systems Thinking",
+    "category": "Systems Thinking"
   },
   {
-    "quote": "Instead of asking how to succeed, ask how you might fail — and avoid it.",
-    "author": "Unknown"
+    "quote": "Output from a system returns as input, creating cycles that amplify or balance.",
+    "author": "Feedback Loops",
+    "category": "Systems Thinking"
   },
   {
-    "quote": "You think that because you understand 'one' you understand 'two' because one and one make two. But you must also understand 'and.'",
-    "author": "Unknown"
+    "quote": "The power to change a system lies in changing its purpose, paradigms, or structure.",
+    "author": "Leverage Points",
+    "category": "Systems Thinking"
   },
   {
-    "quote": "The system is perfectly designed to get the results it gets.",
-    "author": "W. Edwards Deming"
+    "quote": "Complex systems exhibit behaviors that none of their individual parts possess.",
+    "author": "Emergence",
+    "category": "Systems Thinking"
   },
   {
-    "quote": "In complex systems, interventions often have counterintuitive effects.",
-    "author": "Donella Meadows"
+    "quote": "The value of a network increases exponentially with each new user added.",
+    "author": "Network Effects",
+    "category": "Systems Thinking"
   },
   {
-    "quote": "Think of systems, not snapshots.",
-    "author": "Unknown"
+    "quote": "A system's speed is determined by its slowest component.",
+    "author": "Bottlenecks (Theory of Constraints)",
+    "category": "Systems Thinking"
   },
   {
-    "quote": "Compound interest is the eighth wonder of the world.",
-    "author": "Albert Einstein"
+    "quote": "Living systems maintain stability through constant adjustment to changing conditions.",
+    "author": "Homeostasis",
+    "category": "Systems Thinking"
   },
   {
-    "quote": "Small things become big when you compound them over time.",
-    "author": "James Clear"
+    "quote": "Some things get stronger when stressed rather than weaker.",
+    "author": "Antifragility",
+    "category": "Systems Thinking"
   },
   {
-    "quote": "The most powerful force in the universe is compound interest.",
-    "author": "Albert Einstein"
+    "quote": "Rare, unpredictable events have massive impact and are explained away after they occur.",
+    "author": "Black Swan Theory",
+    "category": "Systems Thinking"
   },
   {
-    "quote": "Habits are the compound interest of self-improvement.",
-    "author": "James Clear"
+    "quote": "Sometimes the best action is to stop doing harmful things rather than add new ones.",
+    "author": "Via Negativa",
+    "category": "Systems Thinking"
   },
   {
-    "quote": "Success feeds on itself. Success breeds success.",
-    "author": "Brian Tracy"
+    "quote": "To solve a problem, sometimes you must start from the end and work backwards.",
+    "author": "Inversion",
+    "category": "Physics & Mathematics"
   },
   {
-    "quote": "We are not thinking machines that feel; we are feeling machines that think.",
-    "author": "Antonio Damasio"
+    "quote": "Break down complex problems into their most basic, foundational components.",
+    "author": "First Principles Thinking",
+    "category": "Physics & Mathematics"
   },
   {
-    "quote": "In feedback loops, delay is the cause of instability.",
-    "author": "Donella Meadows"
+    "quote": "The simplest explanation is usually the correct one.",
+    "author": "Occam's Razor",
+    "category": "Physics & Mathematics"
   },
   {
-    "quote": "Negative feedback brings stability. Positive feedback brings amplification.",
-    "author": "Unknown"
+    "quote": "80% of effects come from 20% of causes.",
+    "author": "Pareto Principle (80/20 Rule)",
+    "category": "Physics & Mathematics"
   },
   {
-    "quote": "The cost of anything is the amount of life you exchange for it.",
-    "author": "Henry David Thoreau"
+    "quote": "A small number of events account for the majority of outcomes.",
+    "author": "Power Laws",
+    "category": "Physics & Mathematics"
   },
   {
-    "quote": "Choosing one path means closing off others.",
-    "author": "Unknown"
+    "quote": "Most outcomes cluster around the average, with few extreme results.",
+    "author": "Normal Distribution",
+    "category": "Physics & Mathematics"
   },
   {
-    "quote": "What you don't do determines what you can do.",
-    "author": "Tim Ferriss"
+    "quote": "Extreme outcomes tend to move back toward the average over time.",
+    "author": "Regression to the Mean",
+    "category": "Physics & Mathematics"
   },
   {
-    "quote": "You can do anything, but not everything.",
-    "author": "David Allen"
+    "quote": "Small amounts invested early grow exponentially through the power of time.",
+    "author": "Compound Interest",
+    "category": "Physics & Mathematics"
   },
   {
-    "quote": "We see the world not as it is, but as we are.",
-    "author": "Anaïs Nin"
+    "quote": "All systems tend toward disorder unless energy is applied to maintain order.",
+    "author": "Entropy",
+    "category": "Physics & Mathematics"
   },
   {
-    "quote": "The first principle is that you must not fool yourself — and you are the easiest person to fool.",
-    "author": "Richard Feynman"
+    "quote": "Energy cannot be created or destroyed, only transformed from one form to another.",
+    "author": "Conservation of Energy",
+    "category": "Physics & Mathematics"
   },
   {
-    "quote": "Man is not a rational animal; he is a rationalizing animal.",
-    "author": "Robert Heinlein"
+    "quote": "The true cost of anything is what you give up to get it.",
+    "author": "Opportunity Cost",
+    "category": "Economics & Business"
   },
   {
-    "quote": "What the human being is best at doing is interpreting all new information so that their prior conclusions remain intact.",
-    "author": "Warren Buffett"
+    "quote": "Focus on what you do best and trade for what others do best.",
+    "author": "Comparative Advantage",
+    "category": "Economics & Business"
   },
   {
-    "quote": "Know what you know and know what you don't know.",
-    "author": "Charlie Munger"
+    "quote": "Price is determined by the interaction of how much people want and how much is available.",
+    "author": "Supply and Demand",
+    "category": "Economics & Business"
   },
   {
-    "quote": "Risk comes from not knowing what you're doing.",
-    "author": "Warren Buffett"
+    "quote": "The value of each additional unit decreases as you acquire more.",
+    "author": "Marginal Utility",
+    "category": "Economics & Business"
   },
   {
-    "quote": "Stay within your circle of competence. It's not how big it is, but how well you understand it.",
-    "author": "Charlie Munger"
+    "quote": "Innovation destroys old industries while creating new ones.",
+    "author": "Creative Destruction",
+    "category": "Economics & Business"
   },
   {
-    "quote": "The key to success is playing the game you understand.",
-    "author": "Charlie Munger"
+    "quote": "All available information is already reflected in current market prices.",
+    "author": "Efficient Market Hypothesis",
+    "category": "Economics & Business"
   },
   {
-    "quote": "Strong opinions, weakly held.",
-    "author": "Paul Saffo"
+    "quote": "Sustainable competitive advantages protect businesses like moats protect castles.",
+    "author": "Economic Moats",
+    "category": "Economics & Business"
   },
   {
-    "quote": "Update your beliefs when presented with new evidence.",
-    "author": "Unknown"
+    "quote": "Stay within the boundaries of your knowledge and expertise.",
+    "author": "Circle of Competence",
+    "category": "Economics & Business"
   },
   {
-    "quote": "Reality is uncertain; we update as we learn.",
-    "author": "Shane Parrish"
+    "quote": "People behave differently when they have something real to lose.",
+    "author": "Skin in the Game",
+    "category": "Economics & Business"
   },
   {
-    "quote": "Always have a margin of error in your beliefs.",
-    "author": "Unknown"
+    "quote": "Conflicts arise when the person making decisions isn't the one bearing the consequences.",
+    "author": "Principal-Agent Problem",
+    "category": "Economics & Business"
   },
   {
-    "quote": "The greatest risk is not understanding probability.",
-    "author": "Nassim Taleb"
+    "quote": "Those best adapted to their environment are most likely to survive and reproduce.",
+    "author": "Natural Selection",
+    "category": "Evolution & Biology"
   },
   {
-    "quote": "Anything can happen. What if it's likely to happen?",
-    "author": "Unknown"
+    "quote": "In competition for limited resources, the most capable individuals thrive.",
+    "author": "Survival of the Fittest",
+    "category": "Evolution & Biology"
   },
   {
-    "quote": "It's not the odds that matter — it is the stakes.",
-    "author": "Nassim Taleb"
+    "quote": "Different species can benefit by working together rather than competing.",
+    "author": "Symbiosis",
+    "category": "Evolution & Biology"
   },
   {
-    "quote": "A good decision doesn't always lead to a good outcome.",
-    "author": "Annie Duke"
+    "quote": "You must constantly evolve just to maintain your current position.",
+    "author": "Red Queen Effect",
+    "category": "Evolution & Biology"
   },
   {
-    "quote": "Some things benefit from shocks; they thrive and grow when exposed to volatility.",
-    "author": "Nassim Taleb"
+    "quote": "Two species competing for the same resources cannot coexist indefinitely.",
+    "author": "Competitive Exclusion Principle",
+    "category": "Evolution & Biology"
   },
   {
-    "quote": "Wind extinguishes a candle and energizes fire.",
-    "author": "Nassim Taleb"
+    "quote": "Humans can only maintain meaningful relationships with about 150 people.",
+    "author": "Dunbar's Number",
+    "category": "Evolution & Biology"
   },
   {
-    "quote": "If you want to be antifragile, stop trying to predict.",
-    "author": "Nassim Taleb"
+    "quote": "Small amounts of stress can make systems stronger and more resilient.",
+    "author": "Hormesis",
+    "category": "Evolution & Biology"
   },
   {
-    "quote": "Embrace chaos. It's often the birthplace of new order.",
-    "author": "Unknown"
+    "quote": "Random changes in small populations can have large effects over time.",
+    "author": "Genetic Drift",
+    "category": "Evolution & Biology"
   },
   {
-    "quote": "Never ask a barber if you need a haircut.",
-    "author": "Warren Buffett"
+    "quote": "Evolution happens in rapid bursts followed by long periods of stability.",
+    "author": "Punctuated Equilibrium",
+    "category": "Evolution & Biology"
   },
   {
-    "quote": "Don't take advice from someone who doesn't share in the consequences.",
-    "author": "Nassim Taleb"
+    "quote": "Similar solutions evolve independently when facing similar problems.",
+    "author": "Convergent Evolution",
+    "category": "Evolution & Biology"
   },
   {
-    "quote": "If you're not willing to eat your own cooking, don't expect anyone else to eat it.",
-    "author": "Unknown"
+    "quote": "Human needs form a hierarchy: basic needs must be met before higher ones matter.",
+    "author": "Maslow's Hierarchy of Needs",
+    "category": "Psychology & Social Science"
   },
   {
-    "quote": "Accountability breeds responsibility.",
-    "author": "Stephen Covey"
+    "quote": "We feel discomfort when our actions contradict our beliefs.",
+    "author": "Cognitive Dissonance",
+    "category": "Psychology & Social Science"
   },
   {
-    "quote": "Logic is the beginning of wisdom, not the end.",
-    "author": "Spock"
+    "quote": "We look to others' behavior to guide our own decisions.",
+    "author": "Social Proof",
+    "category": "Psychology & Social Science"
   },
   {
-    "quote": "Emotion clouds judgment.",
-    "author": "Stoic philosophy"
+    "quote": "We obey authority figures even when we disagree with their commands.",
+    "author": "Authority Bias",
+    "category": "Psychology & Social Science"
   },
   {
-    "quote": "Detach to see clearly.",
-    "author": "Naval Ravikant"
+    "quote": "Groups make poor decisions when conformity is valued over critical thinking.",
+    "author": "Groupthink",
+    "category": "Psychology & Social Science"
   },
   {
-    "quote": "Don't just feel it — analyze it.",
-    "author": "Unknown"
+    "quote": "The less competent someone is, the more confident they tend to be.",
+    "author": "Dunning-Kruger Effect",
+    "category": "Psychology & Social Science"
   },
   {
-    "quote": "Creativity loves constraints.",
-    "author": "Marissa Mayer"
+    "quote": "Repeated exposure to something makes us like it more.",
+    "author": "Mere Exposure Effect",
+    "category": "Psychology & Social Science"
   },
   {
-    "quote": "Scarcity sharpens focus.",
-    "author": "Shane Parrish"
+    "quote": "Our overall impression influences how we judge specific traits.",
+    "author": "Halo Effect",
+    "category": "Psychology & Social Science"
   },
   {
-    "quote": "Necessity is the mother of invention.",
-    "author": "Plato"
+    "quote": "We attribute others' actions to their character but our own actions to circumstances.",
+    "author": "Fundamental Attribution Error",
+    "category": "Psychology & Social Science"
   },
   {
-    "quote": "Limited resources breed resourcefulness.",
-    "author": "Unknown"
+    "quote": "People are less likely to help when others are present.",
+    "author": "Bystander Effect",
+    "category": "Psychology & Social Science"
   },
   {
-    "quote": "The more models you have, the better you'll be able to solve problems.",
-    "author": "Charlie Munger"
+    "quote": "A theory is only scientific if it can be proven wrong.",
+    "author": "Falsifiability",
+    "category": "Philosophy & Logic"
   },
   {
-    "quote": "You must know the big ideas in the big disciplines.",
-    "author": "Charlie Munger"
+    "quote": "Never attribute to malice what can be explained by incompetence.",
+    "author": "Hanlon's Razor",
+    "category": "Philosophy & Logic"
   },
   {
-    "quote": "No single model is sufficient by itself.",
-    "author": "Charlie Munger"
+    "quote": "The person making a claim is responsible for providing evidence.",
+    "author": "Burden of Proof",
+    "category": "Philosophy & Logic"
   },
   {
-    "quote": "When all you have is a hammer, everything looks like a nail.",
-    "author": "Abraham Maslow"
+    "quote": "If the premise is true and the logic is valid, the conclusion must be true.",
+    "author": "Modus Ponens",
+    "category": "Philosophy & Logic"
   },
   {
-    "quote": "The universe tends toward disorder.",
-    "author": "Second Law of Thermodynamics"
+    "quote": "Act only according to principles you'd want everyone to follow.",
+    "author": "Categorical Imperative",
+    "category": "Philosophy & Logic"
   },
   {
-    "quote": "Without maintenance, everything degrades.",
-    "author": "Unknown"
+    "quote": "Make decisions as if you don't know your position in society.",
+    "author": "Veil of Ignorance",
+    "category": "Philosophy & Logic"
   },
   {
-    "quote": "Order requires energy. Neglect ensures chaos.",
-    "author": "Unknown"
+    "quote": "Interpret others' arguments in their strongest possible form.",
+    "author": "Principle of Charity",
+    "category": "Philosophy & Logic"
   },
   {
-    "quote": "Things fall apart; the center cannot hold.",
-    "author": "W. B. Yeats"
+    "quote": "Strengthen opposing arguments before attacking them.",
+    "author": "Steel Manning",
+    "category": "Philosophy & Logic"
   },
   {
-    "quote": "There are no solutions. There are only trade-offs.",
-    "author": "Thomas Sowell"
+    "quote": "The mind begins as a blank slate, shaped entirely by experience.",
+    "author": "Tabula Rasa",
+    "category": "Philosophy & Logic"
   },
   {
-    "quote": "You can have anything you want, but not everything you want.",
-    "author": "Ray Dalio"
+    "quote": "Truth emerges through the conflict of opposing ideas.",
+    "author": "Dialectical Method",
+    "category": "Philosophy & Logic"
   },
   {
-    "quote": "Every gain is paid for with a loss somewhere else.",
-    "author": "Unknown"
+    "quote": "We ignore background probabilities when given specific information.",
+    "author": "Base Rate Neglect",
+    "category": "Statistics & Probability"
   },
   {
-    "quote": "Behind every decision is a sacrifice.",
-    "author": "Unknown"
+    "quote": "Update your beliefs based on new evidence, not replace them entirely.",
+    "author": "Bayes' Theorem",
+    "category": "Statistics & Probability"
   },
   {
-    "quote": "The first bite is always the best.",
-    "author": "Economic Principle"
+    "quote": "Large samples will always approach the true average.",
+    "author": "Law of Large Numbers",
+    "category": "Statistics & Probability"
   },
   {
-    "quote": "More isn't always better.",
-    "author": "Unknown"
+    "quote": "The average of samples approaches a normal distribution regardless of the original distribution.",
+    "author": "Central Limit Theorem",
+    "category": "Statistics & Probability"
   },
   {
-    "quote": "Diminishing returns exist everywhere.",
-    "author": "Unknown"
+    "quote": "Complex problems can be solved through repeated random sampling.",
+    "author": "Monte Carlo Method",
+    "category": "Statistics & Probability"
   },
   {
-    "quote": "What satisfies you today may bore you tomorrow.",
-    "author": "Unknown"
+    "quote": "We only see the successes, not the failures that didn't make it.",
+    "author": "Survivorship Bias",
+    "category": "Statistics & Probability"
   },
   {
-    "quote": "The wise build in redundancy.",
-    "author": "Nassim Taleb"
+    "quote": "The sample chosen determines the conclusion reached.",
+    "author": "Selection Bias",
+    "category": "Statistics & Probability"
   },
   {
-    "quote": "Safety margins are not waste; they are protection.",
-    "author": "Unknown"
+    "quote": "Things happening together doesn't mean one causes the other.",
+    "author": "Correlation vs Causation",
+    "category": "Statistics & Probability"
   },
   {
-    "quote": "Prepare for what you cannot predict.",
-    "author": "Unknown"
+    "quote": "Results are meaningful only if they're unlikely to have occurred by chance.",
+    "author": "Statistical Significance",
+    "category": "Statistics & Probability"
   },
   {
-    "quote": "Plan for failure, not just success.",
-    "author": "Unknown"
+    "quote": "Every test has two ways to be wrong: false positives and false negatives.",
+    "author": "Type I and Type II Errors",
+    "category": "Statistics & Probability"
   },
   {
-    "quote": "Adapt or perish.",
-    "author": "H.G. Wells"
+    "quote": "The best outcome occurs when everyone's strategy is optimal given others' strategies.",
+    "author": "Nash Equilibrium",
+    "category": "Strategy & Game Theory"
   },
   {
-    "quote": "Survival goes not to the strongest but to the most adaptable.",
-    "author": "Charles Darwin"
+    "quote": "Individual rational choices can lead to outcomes bad for everyone.",
+    "author": "Prisoner's Dilemma",
+    "category": "Strategy & Game Theory"
   },
   {
-    "quote": "Evolution favors the flexible.",
-    "author": "Unknown"
+    "quote": "One person's gain equals another person's loss.",
+    "author": "Zero-Sum Game",
+    "category": "Strategy & Game Theory"
   },
   {
-    "quote": "Nature is trial and error at scale.",
-    "author": "Nassim Taleb"
+    "quote": "Choose the strategy that minimizes your maximum possible loss.",
+    "author": "Minimax Strategy",
+    "category": "Strategy & Game Theory"
   },
   {
-    "quote": "The simplest explanation is usually the best.",
-    "author": "William of Ockham"
+    "quote": "Individual rational behavior can destroy shared resources.",
+    "author": "Tragedy of the Commons",
+    "category": "Strategy & Game Theory"
   },
   {
-    "quote": "Don't multiply entities beyond necessity.",
-    "author": "Occam's Razor"
+    "quote": "Start cooperatively, then mirror what others do to you.",
+    "author": "Tit-for-Tat",
+    "category": "Strategy & Game Theory"
   },
   {
-    "quote": "Simplicity is the ultimate sophistication.",
-    "author": "Leonardo da Vinci"
+    "quote": "Observe, orient, decide, and act faster than your opponent.",
+    "author": "OODA Loop",
+    "category": "Strategy & Game Theory"
   },
   {
-    "quote": "Keep it simple. Complexity breeds confusion.",
-    "author": "Unknown"
+    "quote": "Tools and techniques that amplify your efforts beyond their direct effects.",
+    "author": "Force Multiplier",
+    "category": "Strategy & Game Theory"
   },
   {
-    "quote": "If something has lasted a long time, it's likely to last longer.",
-    "author": "Nassim Taleb"
+    "quote": "Consider not just immediate consequences, but the consequences of consequences.",
+    "author": "Second-Order Thinking",
+    "category": "Strategy & Game Theory"
   },
   {
-    "quote": "Old things endure for a reason.",
-    "author": "Unknown"
+    "quote": "Use unconventional methods to overcome superior conventional forces.",
+    "author": "Asymmetric Warfare",
+    "category": "Strategy & Game Theory"
   },
   {
-    "quote": "The longer it survives, the longer it's expected to.",
-    "author": "Lindy Principle"
+    "quote": "Multiply the probability of each outcome by its value to find the best choice.",
+    "author": "Expected Value",
+    "category": "Decision Theory & Rationality"
   },
   {
-    "quote": "New isn't always better.",
-    "author": "Unknown"
+    "quote": "Find a solution that's good enough rather than the perfect one.",
+    "author": "Satisficing",
+    "category": "Decision Theory & Rationality"
   },
   {
-    "quote": "Don't trade what you want most for what you want now.",
-    "author": "Unknown"
+    "quote": "People make rational decisions within the limits of available information and mental capacity.",
+    "author": "Bounded Rationality",
+    "category": "Decision Theory & Rationality"
   },
   {
-    "quote": "What matters most is rarely urgent.",
-    "author": "Stephen Covey"
+    "quote": "Too many options can make decision-making harder and less satisfying.",
+    "author": "Paradox of Choice",
+    "category": "Decision Theory & Rationality"
   },
   {
-    "quote": "The future is where compounding lives.",
-    "author": "Shane Parrish"
+    "quote": "Overthinking decisions can prevent any decision from being made.",
+    "author": "Analysis Paralysis",
+    "category": "Decision Theory & Rationality"
   },
   {
-    "quote": "Discipline is choosing between what you want now and what you want most.",
-    "author": "Abraham Lincoln"
+    "quote": "Map out all possible decisions and their consequences before choosing.",
+    "author": "Decision Trees",
+    "category": "Decision Theory & Rationality"
   },
   {
-    "quote": "The unexamined life is not worth living.",
-    "author": "Socrates"
+    "quote": "The right action is the one that produces the greatest good for the greatest number.",
+    "author": "Utilitarianism",
+    "category": "Decision Theory & Rationality"
   },
   {
-    "quote": "Thinking about how we think is the beginning of wisdom.",
-    "author": "Unknown"
+    "quote": "When facing uncertain but potentially catastrophic risks, err on the side of caution.",
+    "author": "Precautionary Principle",
+    "category": "Decision Theory & Rationality"
   },
   {
-    "quote": "The ability to learn faster than your competitors may be the only sustainable competitive advantage.",
-    "author": "Arie de Geus"
+    "quote": "It's rational to believe in God if the potential infinite reward outweighs the finite cost.",
+    "author": "Pascal's Wager",
+    "category": "Decision Theory & Rationality"
   },
   {
-    "quote": "You cannot solve a problem with the same mind that created it.",
-    "author": "Peter Drucker"
+    "quote": "Choose the option that minimizes your worst-case regret.",
+    "author": "Minimax Regret",
+    "category": "Decision Theory & Rationality"
   }
 ]
