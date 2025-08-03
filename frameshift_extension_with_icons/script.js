@@ -6,10 +6,11 @@ document.addEventListener('DOMContentLoaded', () => {
       const selectedQuote = quotes[index];
       const modelElement = document.getElementById('modelText');
       
-      // Create formatted quote display with quote and author
+      // Create formatted mental model display with quote, model name, and category
       modelElement.innerHTML = `
         <div class="quote-text">"${selectedQuote.quote}"</div>
         <div class="quote-author">— ${selectedQuote.author}</div>
+        <div class="quote-category">${selectedQuote.category}</div>
       `;
     })
     .catch(error => {
